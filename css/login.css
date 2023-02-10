@@ -1,0 +1,82 @@
+/*body {
+    background-image: url('../images/home-background.png');
+}*/
+
+.login-form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;
+    justify-content: center;
+}
+
+.login__header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.login__header img {
+    width: 300px;
+    padding: 15px;
+}
+
+.login__header h1 {
+    color: whitesmoke;
+    background-color: black;
+    /*border-radius: 8px;
+    border-style: solid;*/
+    font-size: 2em;
+    padding: 15px;
+}
+
+.login__input {
+    border: 2px solid lightgrey;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    color: black;
+    font-size: 1em;
+    margin-bottom: 15px;
+    max-width: 300px;
+    outline: none;
+    padding: 15px;
+    width: 100%;
+}
+
+.login__button {
+    background-color: #1AE866;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1em;
+    max-width: 300px;
+    padding: 15px;
+    width: 100%;
+}
+
+.login__button:disabled {
+    background-color: #A80FE1;
+    color:white;
+    font-weight: lighter;
+    cursor: auto;
+}
+
+footer {
+    background-color: black;
+}
+
+.cappra-logo {
+    width: 15%;
+    padding: 5px;
+}
+
+.dev-by {
+    color: whitesmoke;
+    font-size: xx-small;
+    text-align: right;
+    padding: 0 5px 0 0;
+}
