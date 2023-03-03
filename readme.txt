@@ -1,7 +1,7 @@
 Como utilizar
 
-	Na tela inicial, insira um nome de sua preferência no campo “Name”. Aperte “Play”. O jogo iniciará após o clique no botão “Play”.
-	Na tela de jogo, clique em um quadrado com o desenho do personagem Dado. A carta virará e revelará um gráfico. 
+Na tela inicial, insira um nome de sua preferência no campo “Name”. Aperte “Play”. O jogo iniciará após o clique no botão “Play”.
+Na tela de jogo, clique em um quadrado com o desenho do personagem Dado. A carta virará e revelará um gráfico. 
 Clique na próxima carta. 
 Caso sejam iguais, elas ficarão congeladas e você poderá seguir na busca das próximas combinações. Caso sejam diferentes, você segue pela busca dos pares.
 Repita o processo até encontrar todos os pares de gráficos.
