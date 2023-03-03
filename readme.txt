@@ -1,7 +1,7 @@
 Como utilizar
 
-	Na tela inicial, insira um nome de sua preferência no campo “Name”. Aperte “Play”. O jogo iniciará após o clique no botão “Play”.
-	Na tela de jogo, clique em um quadrado com o desenho do personagem Dado. A carta virará e revelará um gráfico. 
+Na tela inicial, insira um nome de sua preferência no campo “Name”. Aperte “Play”. O jogo iniciará após o clique no botão “Play”.
+Na tela de jogo, clique em um quadrado com o desenho do personagem Dado. A carta virará e revelará um gráfico. 
 Clique na próxima carta. 
 Caso sejam iguais, elas ficarão congeladas e você poderá seguir na busca das próximas combinações. Caso sejam diferentes, você segue pela busca dos pares.
 Repita o processo até encontrar todos os pares de gráficos.
@@ -35,5 +35,6 @@ Desejamos um bom jogo a todos!
 
 Motivacional
 
-	Eu era uma criança que adorava jogos. A partir dos meus 4 anos, foram muitas as horas que passei em frente ao computador e a videogames. Houve um jogo educacional que me marcou de forma muito especial: Zoombinis, introduzido pela minha professora de Informática do Ensino Fundamental. Por muitas horas, Zoombinis foi o meu divertimento de criança. Eu não sabia disso na época, mas hoje sei que o jogo foi importante para exercitar minha capacidade de raciocínio lógico, fator que favoreceu o meu aprendizado de Lógica de Programação e de Matemática - duas áreas que muito utilizo enquanto desenvolvedora de sistemas e cientista de dados.
-	Oferecer ao público o Dado Memory Game é uma forma de contribuir para que os estudantes de hoje tenham uma oportunidade de conhecer - e talvez de se apaixonar por - uma atividade e por uma área do conhecimento. Essa oportunidade me foi dada pelos desenvolvedores de jogos didáticos e pela minha professora de Informática no passado. Me faria imensamente feliz poder oferecer o mesmo a novas gerações de estudantes e jogadores. Aprender é sempre importante, mas aprender jogando faz a importância virar alegria e diversão.
+Eu era uma criança que adorava jogos. A partir dos meus 4 anos, foram muitas as horas que passei em frente ao computador e a videogames. Houve um jogo educacional que me marcou de forma muito especial: Zoombinis, introduzido pela minha professora de Informática do Ensino Fundamental. Por muitas horas, Zoombinis foi o meu divertimento de criança. Eu não sabia disso na época, mas hoje sei que o jogo foi importante para exercitar minha capacidade de raciocínio lógico, fator que favoreceu o meu aprendizado de Lógica de Programação e de Matemática - duas áreas que muito utilizo enquanto desenvolvedora de sistemas e cientista de dados.
+
+Oferecer ao público o Dado Memory Game é uma forma de contribuir para que os estudantes de hoje tenham uma oportunidade de conhecer - e talvez de se apaixonar por - uma atividade e por uma área do conhecimento. Essa oportunidade me foi dada pelos desenvolvedores de jogos didáticos e pela minha professora de Informática no passado. Me faria imensamente feliz poder oferecer o mesmo a novas gerações de estudantes e jogadores. Aprender é sempre importante, mas aprender jogando faz a importância virar alegria e diversão.
