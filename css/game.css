@@ -42,7 +42,7 @@ header {
     aspect-ratio: 1/1;
     width: 100%;
     background-color: #333;
-    border-radius: 22px;
+    border-radius: 15px;
     position: relative;
     transition: all 600ms ease;
     transform-style: preserve-3d;
@@ -54,8 +54,8 @@ header {
     position: absolute;
     background-size: cover;
     background-position: center;
-    border: 3px solid #A80FE1;
-    border-radius: 22px;
+    border: 1.5px solid #A80FE1;
+    border-radius: 15px;
     transition: all 600ms ease;
 }
 

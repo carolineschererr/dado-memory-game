@@ -1,6 +1,6 @@
-/*body {
-    background-image: url('../images/home-background.png');
-}*/
+body {
+    background-color: black;
+}
 
 .login-form {
     align-items: center;
@@ -65,18 +65,8 @@
     cursor: auto;
 }
 
-footer {
-    background-color: black;
-}
-
 .cappra-logo {
+    align-items: center;
     width: 15%;
     padding: 5px;
-}
-
-.dev-by {
-    color: whitesmoke;
-    font-size: xx-small;
-    text-align: right;
-    padding: 0 5px 0 0;
 }
