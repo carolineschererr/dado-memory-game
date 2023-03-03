@@ -1,0 +1,32 @@
+main {
+    display: flex;
+}
+body {
+    background-color: white;
+}
+
+h1 {
+    align-items: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+p {
+    align-items: justify;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+small {
+    color: white;
+    text-align: right; 
+}
